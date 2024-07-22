@@ -1,6 +1,6 @@
-const n1 = -2;
-const n2 = 0;
-const n3 = Math.sqrt(64);
+const n1 = -2;            //Número 1
+const n2 = 0;             //Número 2
+const n3 = Math.sqrt(64); //Número 3
 
 function parImpar(num){
     if(num%2 === 0){
